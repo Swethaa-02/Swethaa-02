@@ -1,8 +1,7 @@
 <!-- 🌸 Lilac Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=e6e6fa&height=100&section=header&text=Swetha%20Sudhakar&fontSize=40&fontColor=7b2cbf" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=AC82CC&center=true&vCenter=true&width=800&lines=Swetha+Sudhakar;AI+Enthusiast;ML+Explorer;Full-Stack+Developer;NLP+Researcher;Always+Learning+and+Building" alt="Typing SVG" />
 </p>
-
 <!-- ✨ Tagline (below name) -->
 <h3 align="center">
   AI Enthusiast &nbsp; | &nbsp; ML Enthusiast &nbsp; | &nbsp; Problem Solver 
