@@ -1,7 +1,6 @@
 <!-- 🌸 Lilac Banner -->
-<p align="center" style="background-color:#E6CCF5; padding: 30px; border-radius: 10px;">
-  <h2 style="color:white; font-family: Arial;">Swetha Sudhakar</h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Machine+Learning+Explorer;Tech+Innovator;Open+Source+Lover" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&width=600&lines=Swetha+Sudhakar" alt="Title" />
 </p>
 
 <!-- ✨ Tagline (below name) -->
