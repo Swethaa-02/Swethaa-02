@@ -1,15 +1,12 @@
-<!-- 🎀 Pastel Block Wrapper -->
-<div style="background-color: #fff0f5; padding: 30px; border-radius: 10px;">
-
-<!-- 🌸 Banner -->
-<h1 align="center" style="color:#7b2cbf; font-size: 3em;">
-  Swetha Sudhakar
-</h1>
-
-<!-- ✨ Typewriter Effect -->
+<!-- 🌸 Lilac Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B2CBF&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Full-stack+Developer;AI+Explorer;NLP+Researcher;Python+on+Mobile+Builder;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=e6e6fa&height=100&section=header&text=Swetha%20Sudhakar&fontSize=40&fontColor=7b2cbf" />
 </p>
+
+<!-- ✨ Tagline (below name) -->
+<h3 align="center">
+  AI Enthusiast &nbsp; | &nbsp; ML Enthusiast &nbsp; | &nbsp; Problem Solver 
+</h3>
 
 ---
 
@@ -40,22 +37,20 @@ I'm always learning, building, and experimenting with new technologies.
 ## 🛠️ Tech Stack I Work With
 
 **💻 Programming Languages**  
-`Python` • `Java` • `JavaScript`
+`Python` • `Java` •  `JavaScript`
 
 **📊 AI & Data Science**  
 `Pandas` • `NumPy` • `Matplotlib` • `Scikit-learn` • `TensorFlow` • `Transformers (Hugging Face)` • `NLP` 
 
 **🌐 Web & App Dev**  
-`React.js` • `Node.js` •  `Streamlit` • `Flask` • `Firebase`
+`React.js` • `Node.js` • `Express` • `Streamlit` • `Flask` •  `Firebase` 
 
 **🔧 Tools & Platforms**  
-`Git & GitHub` • `Google Colab` • `VS Code` • `Jupyter Notebook` • `Postman` • `Ngrok`
+`Git & GitHub` • `Google Colab` • `VS Code` • `Jupyter Notebook` • `Ngrok`
 
 ---
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/swethasudhakar)  
+- 🔗 [LinkedIn](www.linkedin.com/in/swethaa-sudhakar)  
 - 💻 [GitHub](https://github.com/Swethaa-02)
-
-</div>
