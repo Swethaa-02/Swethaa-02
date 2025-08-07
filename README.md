@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Machine+Learning+Explorer;Tech+Innovator;Open+Source+Lover" alt="Typing SVG" />
 </p>
 
-
-
 <!-- ✨ Tagline (below name) -->
 <h3 align="center">
   AI Enthusiast &nbsp; | &nbsp; ML Enthusiast &nbsp; | &nbsp; Problem Solver 
