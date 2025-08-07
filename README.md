@@ -1,9 +1,9 @@
 <!-- 🌸 Lilac Banner -->
-<!-- Lilac Banner with Name and Animated Taglines -->
-<div align="center" style="background-color:#E6E6FA; padding: 30px; border-radius: 12px;">
-  <h1 style="color:#4B0082; font-size: 48px; font-family: 'Segoe UI', sans-serif;">Swetha Sudhakar</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=4B0082&center=true&vCenter=true&width=600&lines=AI+Enthusiast;ML+Explorer;NLP+Researcher;Full-Stack+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
-</div>
+<!-- Pastel lilac background with name and animated roles -->
+<p align="center" style="background-color:#E6CCF5; padding: 30px; border-radius: 10px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Swetha+Sudhakar;AI+Enthusiast;Machine+Learning+Explorer;Tech+Innovator;Open+Source+Lover" alt="Typing SVG" />
+</p>
+
 
 <!-- ✨ Tagline (below name) -->
 <h3 align="center">
