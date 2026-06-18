@@ -23,35 +23,50 @@
 </p>
 
 <!-- ================= 3. CODE-BLOCK ABOUT ME ================= -->
-```python
-class SwethaSudhakar:
-    def __init__(self):
-        self.name = "Swetha Sudhakar"
-        self.location = "Tamil Nadu, India"
-        self.role = "Aspiring AI/ML Engineer"
-        self.degree = "B.Tech - Artificial Intelligence & Data Science"
-        self.college = "MNM Jain Engineering College, Anna University"
-        self.cgpa = 8.5
+## 🚀 Transforming Ideas into AI-Powered Reality
 
-        self.stack = [
-            "Python", "SQL", "C",
-            "TensorFlow", "PyTorch", "Scikit-learn",
-            "NumPy", "Pandas", "Matplotlib", "Streamlit"
-        ]
+Hi, I'm **Swetha Sudhakar** — an Artificial Intelligence & Data Science final year student who enjoys turning ideas into intelligent solutions.
 
-        self.currently_learning = [
-            "AWS Cloud", "Generative AI", "Advanced Deep Learning"
-        ]
+🎓 **B.Tech in AI & DS**
+🏫 MNM Jain Engineering College, Anna University
+📍 Tamil Nadu, India
+📊 CGPA: 8.5
 
-        self.fun_fact = "I taught a model to spot deepfakes before I learned to spot bad puns."
+### 🔬 What I'm Exploring
 
-    def motto(self):
-        return "Learn. Build. Iterate. Repeat."
-
-
-me = SwethaSudhakar()
-print(me.motto())
+```text
+🧠 Machine Learning
+🤖 Generative AI
+💬 Natural Language Processing
+👁️ Computer Vision
+☁️ Cloud & AI Deployment
 ```
+
+### 🛠️ Current Toolkit
+
+```text
+Python      ████████████
+TensorFlow  ██████████░░
+PyTorch     █████████░░░
+SQL         ██████████░░
+Streamlit   █████████░░░
+AWS         ██████░░░░░░
+```
+
+### 🌱 Currently Growing In
+
+* Building production-ready AI applications
+* Retrieval-Augmented Generation (RAG)
+* Large Language Models (LLMs)
+* Cloud deployment with AWS
+* End-to-end MLOps workflows
+
+### 💡 A Few Things About Me
+
+* I enjoy transforming research ideas into practical projects.
+* I learn best by building, breaking, and rebuilding.
+* I am particularly interested in AI solutions that create real social impact.
+* I believe every dataset has a story waiting to be discovered.
 
 <!-- ================= 4. TECH BADGES ================= -->
 ### 🧰 Tech Stack
