@@ -34,32 +34,36 @@ Hi, I'm **Swetha Sudhakar** — an Artificial Intelligence & Data Science final 
 
 ### 🔬 What I'm Exploring
 
-```text
+
 🧠 Machine Learning
 🤖 Generative AI
 💬 Natural Language Processing
 👁️ Computer Vision
 ☁️ Cloud & AI Deployment
-```
 
-### 🛠️ Current Toolkit
 
-```text
-Python      ████████████
-TensorFlow  ██████████░░
-PyTorch     █████████░░░
-SQL         ██████████░░
-Streamlit   █████████░░░
-AWS         ██████░░░░░░
-```
+### 🛠 Current Toolkit
 
-### 🌱 Currently Growing In
+![Python](https://img.shields.io/badge/Python-Advanced-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-orange)
+![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-red)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-Intermediate-ff4b4b)
+![AWS](https://img.shields.io/badge/AWS-Beginner-yellow)
 
-* Building production-ready AI applications
-* Retrieval-Augmented Generation (RAG)
-* Large Language Models (LLMs)
-* Cloud deployment with AWS
-* End-to-end MLOps workflows
+### 🔮 Currently Crafting
+
+🧠 Smarter AI applications that people actually use
+
+📚 RAG systems that connect knowledge with intelligence
+
+🤖 LLM-powered experiences beyond simple chatbots
+
+☁️ Cloud-ready AI deployments with AWS
+
+⚙️ End-to-end MLOps pipelines for scalable solutions
+
+🚀 Turning ambitious ideas into working products
 
 ### 💡 A Few Things About Me
 
@@ -192,11 +196,11 @@ Key Subjects: Machine Learning, Data Structures, Python Programming, Statistics
 
 ### 📚 Currently Learning
 
-```text
-[■■■■■■■■■■□□□□□] AWS Cloud
-[■■■■■■■□□□□□□□□] Generative AI
-[■■■■■■■■■■■□□□□] Advanced Deep Learning
-```
+🌩️ AWS Cloud • ███████░░░ 70%
+🤖 Generative AI • ███████░░░ 70%
+🧠 Advanced Deep Learning • ████████░░ 80%
+🔍 Retrieval-Augmented Generation (RAG) • ██████░░░░ 60%
+
 
 <p align="center">
   <i>💡 "Learn. Build. Iterate. Repeat."</i>
